@@ -53,4 +53,4 @@ Validating external price data sources
 Conducting user journey analysis
 
 **✏️ Note for reviewers**
-Feel free to explore the accompanying Python scripts and Tableau dashboards included in the repo. 
+Feel free to explore the accompanying Python scripts and Tableau dashboards included in the repo. The dashboard tab is called Top Line Overview Dashboard and it has filters that should change the relevant visuals.
